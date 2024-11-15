@@ -15,7 +15,7 @@ public class Menus {
         menu += "2. Atacar com uma unidade\n";
         menu += "3. Construir ou melhorar um edificio na cidade\n";
         menu += "4. Ver o mapa\n";
-        
+        menu += "arvores";
         return menu;
     
     }
